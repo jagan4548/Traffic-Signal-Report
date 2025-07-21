@@ -1,0 +1,2 @@
+sensor_id,timestamp,vehicle_count,direction,lane_id,avg_speed
+S001,2025-07-15T08:00:00Z,25,N,L1,28.5

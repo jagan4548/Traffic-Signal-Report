@@ -1,0 +1,2 @@
+event_id,event_type,location,timestamp,severity,description
+E001,accident,"40.7129,-74.0058",2025-07-15 08:10:00,high,Two vehicle collision
